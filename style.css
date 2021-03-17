@@ -1,0 +1,28 @@
+header {
+    background-color: grey;
+}
+
+nav > ul {
+    list-style-type: none;
+    padding: 2px;
+}
+
+nav > ul > li {
+    margin: 0 14px;
+    padding: 2px 4px;
+    background-color: lavender;
+    border-radius: 10px;
+}
+
+.left_column{
+    background-color: green;
+    height: 830px;
+}
+
+.right_column{
+    background-color: indianred;
+}
+
+footer {
+    background-color: lightblue;
+}
